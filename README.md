@@ -19,7 +19,7 @@ The Store Data Analysis project utilizes Microsoft Excel to explore and analyze 
 
 ## Dataset
 
-The project uses a sample dataset named `store_data.xlsx` that includes information about store sales, products, customers, and other relevant metrics. The dataset can be found in the project files and will be used for the analysis.
+The project uses a sample dataset named `Raw Data.xlsx` that includes information about store sales, products, customers, and other relevant metrics. The dataset can be found in the project files and will be used for the analysis.
 
 ## Setup
 
@@ -28,10 +28,10 @@ To use this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/store-data-analysis.git
+git clone https://github.com/shaadclt/Store-Data-Analysis-Excel.git
 ```
 
-2. Open the `store_data.xlsx` file in Microsoft Excel.
+2. Open the `Raw Data.xlsx` file in Microsoft Excel.
 
 3. Familiarize yourself with the structure and format of the dataset.
 
@@ -39,7 +39,7 @@ git clone https://github.com/your-username/store-data-analysis.git
 
 To perform store data analysis using Excel, follow these steps:
 
-1. Open the `store_data.xlsx` file in Microsoft Excel.
+1. Open the `Raw Data.xlsx` file in Microsoft Excel.
 
 2. Explore the various sheets and tabs within the Excel workbook to understand the available data.
 
